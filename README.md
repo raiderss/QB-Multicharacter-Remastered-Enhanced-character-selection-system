@@ -1,8 +1,10 @@
 
 ![Screenshot 2025-03-21 00-31-46](https://github.com/user-attachments/assets/78d269f4-ee1d-4106-9a4a-6d42fe58ad03)
-
 ![qb-multicharacter-new-theme](https://github.com/user-attachments/assets/3daaeb02-9375-4010-9b1a-faf462632241)
 
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=LI-lh9IooYY)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/EkwWvFS)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-green?style=for-the-badge&logo=shopify)](https://eyestore.tebex.io/)
 
 # qb-multicharacter
 Multi Character Feature for QB-Core Framework :people_holding_hands:
